@@ -13,19 +13,19 @@ This application will recognise user voice commands about covid-19 and based on 
 
 **It have Following features:**
 
--*It can be used to know about coronavirus.*
+- *It can be used to know about coronavirus.*
 
--*It track live number of corona cases in any country or in any states of India.(By voice command or on Map by moving mouse coursor over the country or states)*
+- *It track live number of corona cases in any country or in any states of India.(By voice command or on Map by moving mouse coursor over the country or states)*
 
--*It can be used to know the symptoms of covid-19.*
+- *It can be used to know the symptoms of covid-19.*
 
--*It can be used to know how covid-19 spreads and what we can do to prevent it.*
+- *It can be used to know how covid-19 spreads and what we can do to prevent it.*
 
--*It can be used to know the Do's and Dont's about covid-19.*
+- *It can be used to know the Do's and Dont's about covid-19.*
 
--*It can be used to check the fact about the myths that are circulating about covid-19.*
+- *It can be used to check the fact about the myths that are circulating about covid-19.*
 
--*It will send you notifications about symptoms,preventions and fact about myths in regular time interval so, it will keep you updated while you're working on your machine.*
+- *It will send you notifications about symptoms,preventions and fact about myths in regular time interval so, it will keep you updated while you're working on your machine.*
   
 
 **Note:** You can access all the features either by voice command or by the buttons as well.
