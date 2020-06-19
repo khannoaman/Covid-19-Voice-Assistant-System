@@ -8,8 +8,8 @@ A Voice Assistant System for gathering information related to the covid-19.
 
 Description
 -------------
-It is a voice assistant system which aware people about covid-19. Since there is no treatment available for covid-19 till now so in order to avoid getting affected by this disease, we have to take all necessary precautions. For that everyone should be aware about this disease.So, this application we help for that purpose.
-This application will recognise user voice commands about covid-19 and based on that command it will repond.Incase if anyone don't want to use voice commands they can use buttons which are provided.
+It is a voice assistant system which aware people about covid-19. Since there is no treatment available for covid-19 till now so in order to avoid getting affected by this disease, we have to take all necessary precautions. For that everyone should be aware about this disease.So, this application will help for that purpose.
+This application will recognise user voice commands about covid-19 and based on that command it will respond. In case if anyone don't want to use voice commands they can use buttons which are provided.
 
 **It have Following features:**
 
